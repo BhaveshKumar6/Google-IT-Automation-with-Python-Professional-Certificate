@@ -1,7 +1,5 @@
 # Basic Python Syntax
-
 <br/>
-
 ## Learning
 
 * Differentiate and convert between different data types utilizing variables
